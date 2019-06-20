@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "compatibility based application for finding friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aizhan87/Friend-Finder---Node-and-Express-Servers.git"
+  },
+  "author": "Aizhan Omarbekova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aizhan87/Friend-Finder---Node-and-Express-Servers/issues"
+  },
+  "homepage": "https://github.com/Aizhan87/Friend-Finder---Node-and-Express-Servers#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
